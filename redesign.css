@@ -273,7 +273,7 @@ html.visual-refresh {
 
 	.panels__5e434 {
 		display: flex;
-		width: 280px;
+		width: 300px;
 		flex-direction: column;
 		border: none;
 		border-radius: 0;
@@ -1016,7 +1016,7 @@ html.visual-refresh {
 	}
 	.base__5e434 .sidebar__5e434 > .sidebarList__5e434 {
 		grid-area: sidebar;
-		width: 280px;
+		width: 300px;
 		--custom-app-panels-height: 0;
 	}
 	.base__5e434 .sidebar__5e434 > .sidebarResizeHandle__5e434,
@@ -2689,3 +2689,4 @@ html.density-default .item_caf372 {
 		padding-top: 21px;
 	}
 }
+
