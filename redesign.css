@@ -1725,7 +1725,8 @@ html.visual-refresh {
 	.container_e131a9 {
 		align-items: center;
 		gap: 12px;
-		margin: auto var(--space-xs);
+		margin-left: 0;
+		margin-right: auto;
 		padding: var(--space-xs);
 		padding-left: 0;
 		padding-right: 0;
@@ -2691,6 +2692,7 @@ html.density-default .item_caf372 {
 		padding-top: 21px;
 	}
 }
+
 
 
 
