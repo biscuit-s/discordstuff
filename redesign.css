@@ -1719,9 +1719,11 @@ html.visual-refresh {
 
 	/* voice panel */
 	.wrapper_e131a9 {
+		align-items: center;
 		margin-left: unset;
 	}
 	.container_e131a9 {
+		align-items: center;
 		gap: 12px;
 		margin: auto var(--space-xs);
 		padding: var(--space-xs);
@@ -2689,5 +2691,6 @@ html.density-default .item_caf372 {
 		padding-top: 21px;
 	}
 }
+
 
 
